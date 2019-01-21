@@ -27,7 +27,7 @@
     "y": -92
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +44,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B7A15FC3-1BEF-4E30-BED8-2E32A0BD6A3D"
+    }
   ],
   "name": "Splash",
   "nameIsFixed": true,
